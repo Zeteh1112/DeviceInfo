@@ -1,0 +1,30 @@
+{
+  "mt6878": {
+    "name": "MediaTek Dimensity 7300",
+    "brand": "MediaTek"
+  },
+  "mt6895": {
+    "name": "MediaTek Dimensity 9200",
+    "brand": "MediaTek"
+  },
+  "sm8650": {
+    "name": "Snapdragon 8 Gen 3",
+    "brand": "Qualcomm"
+  },
+  "sm8550": {
+    "name": "Snapdragon 8 Gen 2",
+    "brand": "Qualcomm"
+  },
+  "sm8350": {
+    "name": "Snapdragon 888",
+    "brand": "Qualcomm"
+  },
+  "exynos2400": {
+    "name": "Exynos 2400",
+    "brand": "Samsung"
+  },
+  "tensor g3": {
+    "name": "Google Tensor G3",
+    "brand": "Google"
+  }
+}
